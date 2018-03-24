@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EX_Chat", "EX_Chat.vcxproj", "{F485A149-23F8-AD2C-C906-2871161B9874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F485A149-23F8-AD2C-C906-2871161B9874}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F485A149-23F8-AD2C-C906-2871161B9874}.Debug|Win32.Build.0 = Debug|Win32
+		{F485A149-23F8-AD2C-C906-2871161B9874}.Release|Win32.ActiveCfg = Release|Win32
+		{F485A149-23F8-AD2C-C906-2871161B9874}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
